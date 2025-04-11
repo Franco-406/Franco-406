@@ -1,4 +1,4 @@
-<h1 align="center">hola yo soy sebastian Franco <img src="https://[media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"](https://es.pinterest.com/pin/1122733382074793917/) width="35"></h1>
+<h1 align="center">hola yo soy sebastian Franco <img src="https://[media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"](https://es.pinterest.com/pin/1122733382074793917/) width="35"></h1>](https://www.google.com/url?sa=i&url=http%3A%2F%2Fwww.bbmgif.com%2Fes%2Fgallery%2Fitem.php%3Fid%3D7152&psig=AOvVaw3NOZ04uWMHtgkTRP0k5FCX&ust=1744469531818000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCKij-vWd0IwDFQAAAAAdAAAAABA4)]
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Software+Engineer+@bld.ai;Computer+Science+Student;Competitive+Programmer;2x+ACPC+Finalist;Expert+on+Codeforces;Division+1+on+Codechef+(5+Stars);4+Kyu+on+Atcoder;Always+learning+new+things"></a>
 </p>
